@@ -1,78 +1,68 @@
-<h1 align="center">👋 Hey, I'm Divyesh Kamalanaban</h1>
-<h3 align="center">Engineer • AI & Embedded Systems • Full-Stack Developer</h3>
+## Summary
+Focused on solving engineering problems using AI.  
+Building lightweight, accessible systems for efficient inference across devices.  
+Driven by curiosity and the pursuit of practical intelligence.
 
----
 
-### 🧠 Summary  
-Engineer focused on solving real-world problems with **artificial intelligence** and **embedded systems**.  
-Builds scalable AI pipelines spanning **power systems**, **bioinformatics**, and **edge devices**.  
-Bridges **deep learning**, **machine learning**, and **engineering contexts** into deployable systems.  
-Pursuing **B.E. in Electronics and Communication Engineering** at SRM Institute of Science and Technology.  
-An Intelligence Engineer by trade — and by instinct.
+## Featured Projects
 
----
+### [SleeQC — Resource-Adaptive Post-Quantum Cryptography on ESP32](https://github.com/Divyesh-Kamalanaban/sleeqc)
+![Platform](https://img.shields.io/badge/Platform-ESP32-blue?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-PQC%20%7C%20TinyML-orange?style=flat-square)
+![Lang](https://img.shields.io/badge/C-C%2B%2B-blueviolet?style=flat-square)
+> Dynamic PQC engine balancing high security and runtime stability.  
 
-### 🚀 Featured Projects
 
-#### [SleeQC — Resource-Adaptive Post-Quantum Cryptography on ESP32](https://github.com/Divyesh-Kamalanaban/sleeqc)
-Dynamic PQC engine balancing high security and runtime stability on microcontrollers.  
-Includes **TinyML-driven** adaptive cryptography switching, **Dilithium PQC variants**, and custom quantized ML models.  
+### [Gridifix — ML-Powered Fault Detection & Localization](https://github.com/Divyesh-Kamalanaban/gridifix)
+![Domain](https://img.shields.io/badge/Domain-Power%20Systems-lightgrey?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Model%20Accuracy-95%25-success?style=flat-square)
+![Optimization](https://img.shields.io/badge/Efficiency+70%25-brightgreen?style=flat-square)
+> Deep learning engine for single-bus fault analysis.  
 
-#### [Gridifix — ML-Powered Fault Detection & Localization Engine](https://github.com/Divyesh-Kamalanaban/gridifix)
-Developed research pipeline for **smart grid fault detection** and **localization** using deep learning.  
-Achieved **95% power flow estimation accuracy** and optimized solver efficiency by **70%**.
 
-#### [Seaquenced — eDNA Biodiversity Classification System](https://github.com/Divyesh-Kamalanaban/seaquenced)
-Bioinformatics solution for identifying species from **environmental DNA** data.  
-Quantized **Nucleotide Transformer** models from 32-bit to 4-bit precision, cutting GPU memory by 74%.
+### [Seaquenced — eDNA Biodiversity Classifier](https://github.com/Divyesh-Kamalanaban/seaquenced)
+![Domain](https://img.shields.io/badge/Domain-Bioinformatics-teal?style=flat-square)
+![Model](https://img.shields.io/badge/Model-Nucleotide%20Transformer-blue?style=flat-square)
+![Quantization](https://img.shields.io/badge/Precision-4bit-9cf?style=flat-square)
+> Identifies species from environmental DNA data.  
 
-#### [Tortovoice — CRM & Invoice Management Platform](https://github.com/Divyesh-Kamalanaban/Tortovoice)
-Built a **MERN-stack** CRM integrating invoice and document workflows with API-based automation.
 
----
+### [Tortovoice — CRM & Invoice Management](https://github.com/Divyesh-Kamalanaban/Tortovoice)
+![Stack](https://img.shields.io/badge/Stack-MERN-green?style=flat-square)
+![Automation](https://img.shields.io/badge/API-Automation-yellow?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-CRM%20%7C%20Invoices-lightgrey?style=flat-square)
+> Full-stack CRM platform with automated document & invoice workflows.  
 
-### 🧩 Tech Stack
 
-#### 💻 Languages
+## Tech Stack
+
+### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" />
+  <img height="30" src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" />
 </p>
 
-#### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,threejs,gsap,fastapi&theme=dark" />
+  <img height="30" src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,threejs&theme=dark" />
 </p>
 
-#### 🤖 AI / ML
+### AI / ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,docker&theme=dark" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+  <img height="30" src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,docker&theme=dark" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 </p>
 
-#### 🧱 Backend & DevOps
+### Backend & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,docker,linux,arduino&theme=dark" />
+  <img height="30" src="https://skillicons.dev/icons?i=mongodb,git,github,docker,linux,arduino&theme=dark" />
 </p>
 
-#### 🧠 Areas of Work
+### Areas of Work
 - Edge AI • TinyML • Post-Quantum Cryptography  
 - Full-Stack Web Development • System Optimization  
 - Applied Machine Learning • Lightweight Inference  
 
----
-
-### 🪪 Certifications
-- GitHub Foundations — *GitHub*  
-- Software Engineering — *IBM*  
-- Programming with JavaScript — *Meta*  
-- Python for Data Science — *IBM*  
-- AI for Entrepreneurship — *Intel Corporation*  
-- Frontend Developer (React) — *HackerRank*  
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyesh-Kamalanaban&show_icons=true&theme=tokyonight" height="180em"/>
-</p>
+## Profile Stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Divyesh-Kamalanaban&theme=darkhub&margin-w=10&margin-h=10" />
